@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T14:22:03.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.9.2" etag="vVRaIoHMFoOJPkFux1qj" type="github"><diagram id="-aKr3_jJaVpqJ4_DFgbU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-26T14:39:13.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="MO-0Ao4bhjhiIgF5pwkQ" version="14.9.2" type="github">
+  <diagram id="-aKr3_jJaVpqJ4_DFgbU" name="Page-1">
+    <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A5Prt3orixARReHyAhVf-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5Prt3orixARReHyAhVf-1" target="A5Prt3orixARReHyAhVf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A5Prt3orixARReHyAhVf-1" target="A5Prt3orixARReHyAhVf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A5Prt3orixARReHyAhVf-1" target="A5Prt3orixARReHyAhVf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A5Prt3orixARReHyAhVf-1" target="A5Prt3orixARReHyAhVf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-1" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.router;" vertex="1" parent="1">
+          <mxGeometry x="278" y="211.88" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-2" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="297" y="293.75" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A5Prt3orixARReHyAhVf-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/IP_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="150" y="211.88" width="67" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-9" value="" style="outlineConnect=0;fontColor=#232F3E;fillColor=#C7131F;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_firewall_endpoints;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="289" y="200" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="113.13" width="130" height="153.75" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-12" value="" style="shape=datastore;whiteSpace=wrap;html=1;gradientColor=none;opacity=40;" vertex="1" parent="A5Prt3orixARReHyAhVf-14">
+          <mxGeometry x="65" y="106.87" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="A5Prt3orixARReHyAhVf-14">
+          <mxGeometry x="-10" y="106.87" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-23" value="Routeur/firewall" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="248" y="180" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="610" y="80.88" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-4" value="" style="html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#000000;shape=mxgraph.sitemap.services;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="540" y="362.5" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="362.5" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;gradientColor=none;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="550" y="75.38" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="85.63000000000001" width="50" height="27.500000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-26" value="Apps&lt;br&gt;VLAN100&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="700" y="80.88" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-27" value="Data&lt;br&gt;VLAN101" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="700" y="211.88" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5Prt3orixARReHyAhVf-28" value="Services&lt;br&gt;VLAN102" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
